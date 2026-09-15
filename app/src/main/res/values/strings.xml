@@ -11,4 +11,5 @@
     <string name="message_hint">输入要发送的内容</string>
     <string name="action_send">发送</string>
     <string name="action_open_classic_blue">经典蓝牙</string>
+    <string name="action_open_ble">BLE 蓝牙</string>
 </resources>

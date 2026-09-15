@@ -23,5 +23,8 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btnOpenClassicBlue).setOnClickListener {
             startActivity(Intent(this, ClassicBlueActivity::class.java))
         }
+        findViewById<Button>(R.id.btnOpenBle).setOnClickListener {
+            startActivity(Intent(this, BLEActivity::class.java))
+        }
     }
 }
